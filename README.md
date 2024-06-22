@@ -1,1 +1,1 @@
-MERN-project
+# **ConnectHub - A social networking application**
